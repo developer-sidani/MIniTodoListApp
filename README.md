@@ -1,4 +1,4 @@
-# Mini Todo List Mobile App
+# Mini Todo List Mobile App Using React Native
 
 The objective behind this app is to add Courses into a list, View them in the main 
 page, and to delete one course from the list by simply tapping the item.
