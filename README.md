@@ -23,6 +23,6 @@ Run The following code in order to execute the app on an android emulator or ios
 
 Lists are saved to an array so when you reload the app the array will reset to default, 
 resulting to the deletion of the list, on delete the item is removed from the array, and by 
-default we are rendering the list for every single item in the app.
+default we are rendering the list for every single item in the array.
 
 
